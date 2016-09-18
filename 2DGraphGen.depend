@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1474176993 source:c:\users\ansuman\documents\opengl\projects\2dgraphgen\main.cpp
+1474203671 source:c:\users\ansuman\documents\opengl\projects\2dgraphgen\maindraw.cpp
 	<GLUT/glut.h>
 	<GL/glut.h>
 
@@ -17,14 +17,33 @@
 	<GL/glu.h>
 	<stdlib.h>
 
-1474177170 source:c:\users\ansuman\documents\opengl\projects\2dgraphgen\graphdraw.cpp
+1474204975 source:c:\users\ansuman\documents\opengl\projects\2dgraphgen\plotdraw.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iostream>
+
+1474206299 source:c:\users\ansuman\documents\opengl\projects\2dgraphgen\pointgen.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<math.h>
+	<iostream>
+
+1474195010 source:c:\users\ansuman\documents\opengl\projects\2dgraphgen\rough.cpp
+
+1474206360 source:c:\users\ansuman\documents\opengl\projects\2dgraphgen\user.cpp
+	<math.h>
+	"plotDraw.cpp"
+
+1474204975 c:\users\ansuman\documents\opengl\projects\2dgraphgen\plotdraw.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iostream>
+
+1474205115 source:c:\users\ansuman\documents\opengl\projects\2dgraphgen\main.cpp
 	<GLUT/glut.h>
 	<GL/glut.h>
 
-1474145924 source:c:\users\ansuman\documents\opengl\projects\2dgraphgen\graphgen.cpp
-	<math.h>
-
-1474177285 source:c:\users\ansuman\documents\opengl\projects\2dgraphgen\pointgen.cpp
+1474205782 c:\users\ansuman\documents\opengl\projects\2dgraphgen\pointgen.cpp
 	<GLUT/glut.h>
 	<GL/glut.h>
 	<math.h>
