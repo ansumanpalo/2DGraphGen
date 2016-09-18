@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1474176993 source:c:\users\ansuman\documents\opengl\projects\2dgraphgen\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1426329928 c:\users\ansuman\documents\opengl\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426329928 c:\users\ansuman\documents\opengl\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1474177170 source:c:\users\ansuman\documents\opengl\projects\2dgraphgen\graphdraw.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1474145924 source:c:\users\ansuman\documents\opengl\projects\2dgraphgen\graphgen.cpp
+	<math.h>
+
+1474177285 source:c:\users\ansuman\documents\opengl\projects\2dgraphgen\pointgen.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<math.h>
+	<iostream>
+
